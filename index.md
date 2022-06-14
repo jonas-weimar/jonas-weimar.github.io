@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Blog
+
+![AvatarImage](https://avatars.githubusercontent.com/u/38507420?s=400&u=59d6544e9e2548c13877e72857374c2e473bcfdf&v=4)
+
+Welcome on my Blog, happy to see ya`!
 
 You can use the [editor on GitHub](https://github.com/jonas-weimar/jonas-weimar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
