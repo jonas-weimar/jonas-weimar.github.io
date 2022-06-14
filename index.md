@@ -1,6 +1,6 @@
 ## Welcome to my Blog
 
-<img src="[drawing.jpg](https://avatars.githubusercontent.com/u/38507420?s=400&u=59d6544e9e2548c13877e72857374c2e473bcfdf&v=4)" alt="AvatarImage" width="200"/>
+<img src="https://avatars.githubusercontent.com/u/38507420?s=400&u=59d6544e9e2548c13877e72857374c2e473bcfdf&v=4" alt="AvatarImage" width="200"/>
 
 Welcome on my Blog, happy to see ya`!
 
